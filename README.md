@@ -1,7 +1,5 @@
 # Clean-Hive-UI
 
-- Removed Scoreboard Background
-- Clean Game Selector and shop
 
 
 Tutorials: (For PC) this will work on mobile devices too but use your own method!
