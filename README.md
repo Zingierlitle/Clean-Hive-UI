@@ -8,8 +8,7 @@ Download the `"Hive Clean UI.zip"`
 Extract `"Hive Clean UI.zip"` and move "Hive UI" To Cache `%LocalAppData%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalCache\minecraftpe\packcache\resource`
 
 
-# (important)
-# this is for customizing server's packcaches.
+# (important) this is for customizing server's packcaches, i am not moderator or developer of this server!
 
 # Scoreboard:
 ![Näyttökuva 2024-08-10 165412](https://github.com/user-attachments/assets/3db4b6fc-d280-4ddb-ad6c-97918e651b46)
