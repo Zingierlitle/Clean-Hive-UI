@@ -13,8 +13,8 @@ Extract `"Hive Clean UI.zip"` and move "Hive UI" To Cache `%LocalAppData%\Packag
 # Scoreboard:
 ![Näyttökuva 2024-08-10 165412](https://github.com/user-attachments/assets/3db4b6fc-d280-4ddb-ad6c-97918e651b46)
 
-# game selector:
+# Game selector:
 ![Näyttökuva 2024-08-10 165734](https://github.com/user-attachments/assets/b47e99d9-fefe-4d5f-be85-85934ba15bcb)
 
-# notification: (UPDATED, 6.11.2024) 
+# Notification: (UPDATED, 6.11.2024) 
 ![Näyttökuva 2024-11-06 204531](https://github.com/user-attachments/assets/06e31b3c-1276-4bb5-8dfa-b965ed96f57d)
