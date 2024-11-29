@@ -1,12 +1,17 @@
 # Clean-Hive-UI
 # (Discountinued)
 
+Discountinued. but you can discord message me "Zingierlitle" from me.
 
 
 Tutorials: (For PC) this will work on mobile devices too but use your own method!
 open minecraft, then go to `"Settings"` then `"Storage"` and in `Chached Data,` Remove the `"Hive UI"` pack then close minecraft
 Download the `"Hive Clean UI.zip"` 
 Extract `"Hive Clean UI.zip"` and move "Hive UI" To Cache `%LocalAppData%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalCache\minecraftpe\packcache\resource`
+
+(updates: november 29, 2024):
+instead of putting it in the cache folder you should paste it into the pack that you downloaded from server. 
+
 
 
 # (important) this is for customizing server's packcaches, i am not moderator or developer of this server!
