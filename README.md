@@ -1,8 +1,7 @@
 # Clean-Hive-UI
 # (Discountinued)
 
-Discountinued. (look at the updates under the tutorials if you don't know how to get one now)
-
+Discountinued. (look at the updates under the tutorials if you don't know how to do it to get one now)
 
 Tutorials: (For PC) this will work on mobile devices too but use your own method!
 open minecraft, then go to `"Settings"` then `"Storage"` and in `Chached Data,` Remove the `"Hive UI"` pack then close minecraft
@@ -10,7 +9,7 @@ Download the `"Hive Clean UI.zip"`
 Extract `"Hive Clean UI.zip"` and move "Hive UI" To Cache `%LocalAppData%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalCache\minecraftpe\packcache\resource`
 
 (updates: january 6, 2025):
-instead of putting it(Hive UI) in the cache folder you need to copy 3 files execpt manifest.json and paste these into the original hive UI file. it replaces the files. 
+instead of putting it(Hive UI) in the cache folder, you need to copy 3 files execpt the "manifest.json", and paste these files into the original file that is downloaded from the server, you may need to find the latest update one so it will work.
 
 
 
